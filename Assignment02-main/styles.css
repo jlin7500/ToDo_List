@@ -1,0 +1,36 @@
+h1{
+   font-weight: bold;
+   background-color: lightblue;
+   text-align: center;
+    
+}
+
+body{
+ color:lightblue;
+}
+
+h2{
+   margin-left: 20px;
+   color:darkblue;
+}
+
+h3{
+   font-family: "Arial", sans-serif;
+   word-spacing: 285px;
+   color:darkgreen;
+   margin-left: 355px;
+}
+
+img{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 50px;
+    height: 300px;
+    width: 600px;
+    margin-left: 250px;
+ }
+
+#line {
+  color: black;
+  text-decoration: line-through;
+}
